@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { Text, SafeAreaView } from 'react-native';
 import { TextInput } from '../../../components';
-import Button from '../../../components/button';
+import { Button } from '../../../components';
 import { styles } from './style';
 
 const Login = ({ navigation }) => {
